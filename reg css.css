@@ -1,0 +1,65 @@
+#header{
+    background-color: rgb(199, 181, 79);
+    background-image: url();
+    color: black;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    padding: 10px;
+    
+    
+}
+body{background-image: url(file:///C:/Users/BUTANA/Desktop/TAKE1/images/IMG-20201204-WA0015.jpg);
+    margin-left: auto;
+    background-color: rgba(0,0,0,0.2);
+    background-repeat: repeat;
+      
+}
+
+#container{
+    background-color: rgb(36, 36, 34);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#content{
+    padding:10px;
+    
+}
+#nav{
+    width: 180px;
+    float: left;
+    height: 1100px;
+    background-color: rgba(0,0,0,0.2);
+    color: bisque;
+    background-image: url('./images/Photo_1654386064087.png');
+    background-position: center;
+    background-position-y: center;
+}
+#main{
+    width: 550px;
+    float :right ;
+    color: rgb(240, 232, 232);
+    
+    
+}
+#footer{
+    clear: both;
+    padding: 10px;
+    background-color: rgb(199, 181, 79);
+    color: azure;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(230, 209, 209);
+    
+}
+#nav ul{
+    list-style-type:none;
+    padding: 0;
+    background-color: rgba(0,0,0,0.7);
+    height: 180px;
+    
+
+}
